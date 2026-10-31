@@ -1,6 +1,8 @@
 Apolo
 =====
 
+Fork of J. Anaís’s M.Sc. thesis code (co-supervised): unsupervised ML search for stellar clusters in the Galactic bar.
+
 > Status: Thesis defended on March 2021. Download my thesis [here!](https://drive.google.com/file/d/1OcrNnFa7S-o3oVHwSqg-SB1IkH94lpzt/view)
 
 This code is being developed as part of my master thesis in Astronomy. The idea is
